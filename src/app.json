@@ -1,13 +1,11 @@
 {
-  "pages": [
-    "pages/index/main",
-    "pages/logs/main",
-    "pages/counter/main"
-  ],
-  "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
-  }
+    "pages": [
+        "pages/index/main"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "商品助手",
+        "navigationBarTextStyle": "black"
+    }
 }
